@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 <h1>Mit csinálok szabadidőmben</h1><hr>
+
 - [x] Proramozás
 - [x] YouTube videózás
 - [ ] Időpazarlás
