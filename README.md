@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @CommanDev-Git
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<h1>Mit csinálok szabadidőmben</h1><hr>
+<h1>Ide feltöltött tartalmak</h1>
 
 - [x] Proramozás
-- [x] YouTube videózás
-- [ ] Időpazarlás
+- [x] Source kódok
+- [x] Saját kódok
+- [ ] Hamis programok
 
 <!---
 CommanDev-Git/CommanDev-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
