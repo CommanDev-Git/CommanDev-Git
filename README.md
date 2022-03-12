@@ -6,8 +6,12 @@
 </p>
 
 
-## Discord közösségem
-[![Discord](https://discordapp.com/api/guilds/926208270476116049/widget.png?style=banner2)](https://discord.gg/8Bs6R5Ngx6)
+## Programozási nyelvek
+<hr>
+- [x] JS
+- [x] CSS
+- [x] HTML
+- [ ] PHP
 <!---
 CommanDev-Git/CommanDev-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
