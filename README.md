@@ -6,7 +6,7 @@
 </p>
 
 
-##Discord közösségem
+## Discord közösségem
 [![Discord](https://discordapp.com/api/guilds/926208270476116049/widget.png?style=banner2)](https://discord.gg/8Bs6R5Ngx6)
 <!---
 CommanDev-Git/CommanDev-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
