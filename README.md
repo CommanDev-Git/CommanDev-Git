@@ -5,6 +5,9 @@
   <a href="https://www.youtube.com/channel/UCPEMuruispdRiucAFpAG67A"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 </p>
 
+
+##Discord közösségem
+[![Discord](https://discordapp.com/api/guilds/926208270476116049/widget.png?style=banner2)](https://discord.gg/8Bs6R5Ngx6)
 <!---
 CommanDev-Git/CommanDev-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
