@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/channel/UCPEMuruispdRiucAFpAG67A"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 </p>
 
-
+<hr>
 
 ## Programozási nyelvek
 
