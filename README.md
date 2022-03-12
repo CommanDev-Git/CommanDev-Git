@@ -13,7 +13,6 @@
 - [x] CSS
 - [x] HTML
 - [ ] PHP
-- [ ] SQL
 - [ ] TS
 
 
